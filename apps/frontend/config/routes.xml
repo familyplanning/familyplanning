@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<routes>
+	<route url="/index.html" module="users" action="home" />
+	<route url="/connexion\.html" module="users" action="authentification" />
+	<route url="/quit\.html" module="users" action="deconnexion" />
+	<route url="/users-insert-([0-9]+)\.html" module="users" action="insert" vars="page" />
+	<route url="/users-update-([0-9]+)-([0-9]+)\.html" module="users" action="update" vars="id,page" />
+	<route url="/users-delete-([0-9]+)-([0-9]+)\.html" module="users" action="delete" vars="id,page" />
+	
+	<route url="/calendrier\.html" module="users" action="calendrier" />
+</routes>

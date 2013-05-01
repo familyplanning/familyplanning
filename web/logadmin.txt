@@ -1,0 +1,47 @@
+20/04/13, 11:38:54		Une tentative de connexion au système avec le login  a échoué pour cause de mot de passe et\ou login incorrect.
+20/04/13, 11:58:55		Une tentative de connexion au système avec le login sachaf89 a échoué pour cause de mot de passe et\ou login incorrect.
+20/04/13, 11:59:53		Une tentative de connexion au système avec le login sachaf89 a échoué pour cause de mot de passe et\ou login incorrect.
+20/04/13, 13:08:29		Erreur de la base de données - save / modify user: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'regular' cannot be null. N°: 23000.
+20/04/13, 13:10:44		Erreur de la base de données - save / modify user: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'regular' cannot be null. N°: 23000.
+20/04/13, 13:15:01		Erreur de la base de données - save / modify user: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'regular' cannot be null. N°: 23000.
+20/04/13, 13:17:18		Erreur de la base de données - save / modify user: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'regular' cannot be null. N°: 23000.
+20/04/13, 13:34:23		Erreur de la base de données - save / modify user: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'datepremiercycle' cannot be null. N°: 23000.
+20/04/13, 13:37:24		Erreur de la base de données - save / modify user: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'datepremiercycle' cannot be null. N°: 23000.
+20/04/13, 13:43:16		Erreur de la base de données - save / modify user: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'datepremiercycle' cannot be null. N°: 23000.
+20/04/13, 13:44:47		Erreur de la base de données - save / modify user: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'datepremiercycle' cannot be null. N°: 23000.
+20/04/13, 13:47:30		Erreur de la base de données - save / modify user: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'datepremiercycle' cannot be null. N°: 23000.
+20/04/13, 13:48:20		Erreur de la base de données - save / modify user: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'datepremiercycle' cannot be null. N°: 23000.
+20/04/13, 13:49:40		Erreur de la base de données - save / modify user: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'datepremiercycle' cannot be null. N°: 23000.
+20/04/13, 13:55:21		Erreur de la base de données - save / modify user: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'datepremiercycle' cannot be null. N°: 23000.
+20/04/13, 13:55:58		Erreur de la base de données - save / modify user: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'datepremiercycle' cannot be null. N°: 23000.
+20/04/13, 13:58:38		Erreur de la base de données - save / modify user: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'datepremiercycle' cannot be null. N°: 23000.
+20/04/13, 14:00:02		Erreur de la base de données - save / modify user: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'datepremiercycle' cannot be null. N°: 23000.
+20/04/13, 14:09:45		Erreur de la base de données - save / modify user: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'yakanho' for key 'username'. N°: 23000.
+20/04/13, 14:33:18		Erreur de la base de données - save / modify user: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'datepremiercycle' cannot be null. N°: 23000.
+21/04/13, 07:34:34		Une tentative de connexion au système avec le login sachaf89 a échoué pour cause de mot de passe et\ou login incorrect.
+21/04/13, 07:41:03		Erreur de la base de données - getlist event: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'familyplanning.cycles' doesn't exist. N°: 42S02.
+21/04/13, 07:44:51		Une tentative de connexion au système avec le login sachaf89 a échoué pour cause de mot de passe et\ou login incorrect.
+21/04/13, 07:48:40		Une tentative de connexion au système avec le login sachaf89 a échoué pour cause de mot de passe et\ou login incorrect.
+21/04/13, 07:56:58		Une tentative de connexion au système avec le login Username a échoué pour cause de mot de passe et\ou login incorrect.
+21/04/13, 07:57:04		Une tentative de connexion au système avec le login Username a échoué pour cause de mot de passe et\ou login incorrect.
+21/04/13, 07:58:24		Une tentative de connexion au système avec le login Username a échoué pour cause de mot de passe et\ou login incorrect.
+21/04/13, 07:58:50		Une tentative de connexion au système avec le login Username a échoué pour cause de mot de passe et\ou login incorrect.
+21/04/13, 07:58:56		Une tentative de connexion au système avec le login Username a échoué pour cause de mot de passe et\ou login incorrect.
+21/04/13, 07:59:54		Erreur de la base de données - getlist event: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'familyplanning.cycles' doesn't exist. N°: 42S02.
+21/04/13, 08:41:54		Une tentative de connexion au système avec le login sachaf89 a échoué pour cause de mot de passe et\ou login incorrect.
+21/04/13, 09:20:18		Erreur de la base de données - getlist event: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'familyplanning.cycles' doesn't exist. N°: 42S02.
+21/04/13, 09:28:29		Erreur de la base de données - getlist event: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'event' in 'field list'. N°: 42S22.
+21/04/13, 09:33:40		Erreur de la base de données - getlist event: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'event' in 'field list'. N°: 42S22.
+21/04/13, 09:35:28		Erreur de la base de données - getlist event: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'event' in 'field list'. N°: 42S22.
+21/04/13, 09:38:28		Erreur de la base de données - getlist event: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'event' in 'field list'. N°: 42S22.
+21/04/13, 09:41:57		Erreur de la base de données - getlist cycle: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'datecycle' in 'field list'. N°: 42S22.
+21/04/13, 11:46:48		Une tentative de connexion au système avec le login Username a échoué pour cause de mot de passe et\ou login incorrect.
+21/04/13, 14:00:32		Une tentative de connexion au système avec le login sachaf89 a échoué pour cause de mot de passe et\ou login incorrect.
+21/04/13, 14:05:33		Erreur de la base de données - save / modify user: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'datepremiercycle' cannot be null. N°: 23000.
+21/04/13, 14:11:49		Erreur de la base de données - save / modify user: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'datepremiercycle' cannot be null. N°: 23000.
+21/04/13, 14:33:58		Erreur de la base de données - save / modify user: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'sachaf89' for key 'username'. N°: 23000.
+21/04/13, 14:35:23		Erreur de la base de données - save / modify user: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'sachaf89' for key 'username'. N°: 23000.
+21/04/13, 15:38:17		Erreur de la base de données - save / modify user: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'datepremiercycle' cannot be null. N°: 23000.
+01/05/13, 16:18:32		Erreur de connexion à la base de données: SQLSTATE[HY000] [1045] Access denied for user 'borgoual'@'localhost' (using password: YES). N°: 1045.
+01/05/13, 16:25:39		Erreur de connexion à la base de données: SQLSTATE[HY000] [1045] Access denied for user 'borgoual'@'localhost' (using password: YES). N°: 1045.
+01/05/13, 16:29:47		Erreur de connexion à la base de données: SQLSTATE[HY000] [1045] Access denied for user 'borgoual'@'localhost' (using password: YES). N°: 1045.
